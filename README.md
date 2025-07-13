@@ -5,6 +5,7 @@
 [![NPM Version][npm-image]][npm-url]
 [![Node.js Version][node-version-image]][node-version-url]
 [![License][license-image]][license-url]
+[![smithery badge](https://smithery.ai/badge/@zqhz-two/mcp-jobs-v1)](https://smithery.ai/server/@zqhz-two/mcp-jobs-v1)
 
 ## ⚡ 30 秒快速开始
 
@@ -39,6 +40,15 @@ npx -y mcp-jobs
 - **🔧 可选增强**：支持 API Key 解锁额外功能（完全可选）
 
 ## 📦 安装方式
+
+### 🚀 即时运行（推荐）
+
+**无需安装，无需配置，立即使用：**
+
+```bash
+# 一行命令，立即启动
+npx -y mcp-jobs
+```
 
 ### 🚀 即时运行（推荐）
 
@@ -338,3 +348,4 @@ CRAWLER_USER_AGENT="Custom Bot 1.0" npx -y mcp-jobs
 [node-version-url]: https://nodejs.org/download/
 [license-image]: https://img.shields.io/npm/l/mcp-jobs.svg
 [license-url]: LICENSE
+
